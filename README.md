@@ -2,14 +2,6 @@
 
 This is a small console application written in Python that reads data from a JSON file (`trainings.txt`) and generates three JSON outputs based on different requirements related to training completions. The application processes information about trainings completed by various people, considering details such as the most recent completion date, fiscal year, and training expiration.
 
-## Requirements
-- The application should work with any data provided in the specified format.
-- The JSON outputs should meet specific requirements, including:
-  - Count of completed trainings.
-  - List of people who completed specified trainings within a fiscal year.
-  - Identification of people with expired or soon-to-expire trainings.
-- The application code and generated output files should be checked into a publicly accessible GitHub repository.
-
 ## How It Works
 
 ### Input
